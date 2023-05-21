@@ -1,26 +1,26 @@
 # Logica_de_Programacao
 Conteúdo do Módulo
 
-Apresentando Algoritmos [7min]
+Apresentando Algoritmos 
 
-Fluxos Simples, Sequencial [11min]
+Fluxos Simples, Sequencial 
 
-Tipos de Dados [10min]
+Tipos de Dados 
 
-Decisão [10min]
+Decisão 
 
-Repetição [11min]
+Repetição 
 
 Exercício I
 
-Listas/Arrays [9min]
+Listas/Arrays 
 
-Funções [10min]
+Funções 
 
-Exercício Completo (Pseudocódigo) [8min]
+Exercício Completo (Pseudocódigo) 
 
-Desempenho de Algoritmos [12min]
+Desempenho de Algoritmos 
 
-Dicas para Montar Algoritmos [7min]
+Dicas para Montar Algoritmos 
 
 Exercícios II
